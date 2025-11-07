@@ -18,9 +18,9 @@ ModulateSignal:ApplytheAMformulatoobtainthemodulatedsignal.
 PlottheSignals:UseMatplotlibtoplotthemessagesignal,carriersignal,andmodulated signal.
 # Program
 am-code
-Output Waveform
+# Output Waveform
 image
-Tabulation
+# Tabulation
 Am py
 
 # Result
