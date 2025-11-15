@@ -23,8 +23,7 @@ PlottheSignals:UseMatplotlibtoplotthemessagesignal,carriersignal,andmodulated si
 <img width="1261" height="931" alt="image" src="https://github.com/user-attachments/assets/4dfda57b-c872-4ae0-bfcf-5d3a267161a1" />
 
 # Tabulation
-![WhatsApp Image 2025-11-07 at 09 40 54_f98e9f83](https://github.com/user-attachments/assets/15921a55-bdce-4f85-a980-b4a5d3c9fa19)
-
+![WhatsApp Image 2025-11-15 at 13 17 39_ad85278f](https://github.com/user-attachments/assets/996a7534-b90e-4cc8-9e58-242a8f359d65)
 
 # Result
 The message signal,carrier signal and amplitude modulated (AM) signal will be displayed in separate plots. Thus AM is implemented using numPy and Matplotlib.
